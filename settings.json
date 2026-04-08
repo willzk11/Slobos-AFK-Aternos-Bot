@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":"CLOUDSMP-WES.aternos.me:14978",
+    "ip":"CLOUDSMP-WES.aternos.me",
     "port":14978,
     "version": "",
     "try-creative": false
